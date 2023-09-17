@@ -43,6 +43,7 @@ CURRICULUM ACTIVITIES
 
 CONTACT
 ======
+* Base: Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA
 * Tel: (+86)13516305590 
 * Email: jamiepw214@gmail.com
 * GitHub: github.com/JamiePW

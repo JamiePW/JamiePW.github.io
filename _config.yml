@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuhan Wu"
   avatar           : "profile.png"
-  bio              : "Bldg Diyiguan, Beihang University\r\nEmail:\r\njamiepw214@gmail.com\r\njamiepw@163.com" #your biography for the left-hand sidebar
-  location         : "37 Xueyuan Rd, Haidian Dist\r\nBeijing, CHINA"
+  bio              : "" #your biography for the left-hand sidebar
+  location         : "Beijing, CHINA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

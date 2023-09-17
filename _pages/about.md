@@ -13,3 +13,5 @@ I am a postgraduate pursuing a Master's degree at the School of Cyber Science an
 
 I graduated from Beihang University with a B.E. in 2023.
 
+Here is my [CV](https://jamiepw.github.io/cv/).
+

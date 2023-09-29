@@ -48,7 +48,7 @@ SKILLS
   * Mandarin Chinese: Native
 * **Programming**
   * familiar with C/C++/Java/Python
-  * beginning at SQL/Assembly Language
+  * beginning at SQL/Assembly Language/Golang/Rust
 * **Network Tools**
   * beginning at OpenSSL/GunPG/OpenVPN/Nmap/Wireshark/netwox/hping3/HashCat/Snort
 

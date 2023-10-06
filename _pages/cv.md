@@ -43,7 +43,7 @@ INTERNSHIP & ACADEMIC EXPERIENCE
   
 SKILLS
 ======
-* **Language**
+* **Languages**
   * English: Fluent, IELTS Academic 7.5
   * Mandarin Chinese: Native
 * **Programming**

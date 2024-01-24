@@ -11,13 +11,14 @@ redirect_from:
 
 CONTACT
 ======
-* **Base:** Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA
+* **Base:** 505, Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA
 * **Tel:** (+86)13516305590 
 * **Email:** jamiepw214@gmail.com
 * **GitHub:** github.com/JamiePW
 
 EDUCATION
 ======
+* 2024-now: Exchange student, Université catholique de Louvain
 * 2023-now:  M.S. in Engineering, Beihang University
 * 2019-2023: B.E. in Information Security, Beihang University
   * **Overall GPA:** 3.85/4  
@@ -66,4 +67,5 @@ HONORS & AWARDS
 | 2020, 2021, 2022 | The Merit Student of Beihang University                      | Top 10% |
 | 2022             | The Grand Prize Scholarship for Social Work of Beihang University | Top 10% |
 | 2023             | Graduation with Honors of Beihang University                 | Top 25% |
+| 2024             | The Louvain Incentive Scholarship of Ecole Polytechnique de Louvain of UCLouvain | N/A     |
 

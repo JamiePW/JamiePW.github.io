@@ -18,9 +18,9 @@ CONTACT
 
 EDUCATION
 ======
-* 2023-now:  M.S. in Engineering, Beihang University
-* 2024-2024: Exchange student, Université catholique de Louvain
-* 2019-2023: B.E. in Information Security, Beihang University
+* 2023.09-now:  M.S. in Engineering, Beihang University
+* 2024.01-2024.06: Exchange student, Université catholique de Louvain
+* 2019.09-2023.06: B.E. in Information Security, Beihang University
   * **Overall GPA:** 3.85/4  
   * **Rank:** 2/50
 
@@ -55,7 +55,7 @@ SKILLS
 
 CURRICULUM ACTIVITIES
 ======
-* 2020-now: Member of the Tianxiao Quyi Troupe of Beihang University
+* 2020.04-now: Member of the Tianxiao Quyi Troupe of Beihang University
 
 HONORS & AWARDS
 ======

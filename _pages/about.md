@@ -14,3 +14,5 @@ I graduated from Beihang University with a B.E. in 2023.
 
 Here is my [CV](https://jamiepw.github.io/cv/).
 
+[中文简历](https://jamiepw.github.io/files/武昱涵简历20240918-DL.pdf)
+

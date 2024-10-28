@@ -1,7 +1,7 @@
 ---
 title: '关于OWASP常见Web漏洞的调研报告'
 date: 2024-10-28
-permalink: /posts/2024/10/OWASP-web-report/
+permalink: /posts/2024/10/OWASP-web-report
 tags:
   - OWASP
   - Web

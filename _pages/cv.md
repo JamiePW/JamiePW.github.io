@@ -61,6 +61,10 @@ SKILLS
 * **Network Tools**
   * beginning at OpenSSL/GunPG/OpenVPN/Nmap/Wireshark/netwox/hping3/HashCat/Snort
 
+BLOG
+======
+* **[关于OWASP常见Web漏洞的调研报告](https://jamiepw.github.io/files/关于OWASP常见Web漏洞的调研报告.pdf)(update: 2024-10-28)**
+
 CURRICULUM ACTIVITIES
 ======
 * 2020.04-now: Member of the Tianxiao Quyi Troupe of Beihang University

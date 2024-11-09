@@ -67,7 +67,8 @@ BLOG
 
 CURRICULUM ACTIVITIES
 ======
-* 2020.04-now: Member of the Tianxiao Quyi Troupe of Beihang University
+* 2024.11-now: Member of Haidian Ballad Singers Association of Beijing
+* 2020.04-now: Member of Tianxiao Quyi Troupe of Beihang University
 
 HONORS & AWARDS
 ======

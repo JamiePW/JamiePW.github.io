@@ -66,7 +66,7 @@ BLOG
 * **[关于OWASP常见Web漏洞的调研报告](https://jamiepw.github.io/files/关于OWASP常见Web漏洞的调研报告.pdf)(update: 2024-10-28)**
 * **[关于OWASP-TOP10-LLM的调研报告](https://jamiepw.github.io/files/关于OWASP-TOP10-LLM的调研报告.pdf)(update: 2024-11-13)**
 * **[Claude 3.5与ChatGPT越狱提示](https://jamiepw.github.io/files/Claude_3.5与ChatGPT越狱提示.pdf)(update: 2024-11-20)**
-* **[大语言模型的对抗性攻击（Lilian Weng）](https://jamiepw.github.io/files/大语言模型的对抗性攻击.pdf)**(update: 2024-12-07)
+* **[大语言模型的对抗性攻击（Lilian Weng）](https://jamiepw.github.io/files/大语言模型的对抗性攻击.pdf)(update: 2024-12-07)**
 
 CURRICULUM ACTIVITIES
 ======

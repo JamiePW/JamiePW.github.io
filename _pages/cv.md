@@ -33,12 +33,16 @@ EDUCATION
 
 INTERNSHIP & ACADEMIC EXPERIENCE
 ======
+* **Internship at Sinovation Ventures (2025.05-2025.08, Beijing)**
+  * Responsible for daily IT support and issue resolution, promptly responding to and handling emergencies.
+  * Independently designed and developed a backend monitoring system to meet the management needs of company servers and other network equipment, and handled its daily maintenance. code: github.com/JamiePW/mySimpleMonitor
+
 * **Internship at BITMAIN (2024.10-2025.01, Beijing)**
   * **Security Operations**: Audited over 40 daily/monthly security hosting reports, authored and revised SOP documents totaling approximately 30,000 words for security operations, and maintained the software whitelist.
   * **Security Testing**: Participated in security testing for internal systems, with hands-on experience addressing OWASP TOP 10 web vulnerabilities (e.g., **SQL injection, XSS, CSRF, SSRF**).
   * **Technical Research**: Researched offensive and defensive techniques for **large language model (LLM) security**, producing 5 in-depth reports totaling over 40,000 words (see my [BLOG](#BLOG)).
 
-* **Graduation Design(Thesis): Research on Implementation of High-Order Correlation Power Analysis of AES Implementation with Combined Countermeasures**
+* **Undergraduate Graduation Design(Thesis): Research on Implementation of High-Order Correlation Power Analysis of AES Implementation with Combined Countermeasures**
   * **Tutor:** Prof. Lu Jiqiang
   * **Abstract:** In this paper, we studied an AES implementation that combines countermeasures such as affine masking and shuffling. We reproduce the power consumption model and perform computational optimization to implement higher-order correlation power analysis in 12 different scenarios, and evaluate the results at a finer granularity. We also propose a method to calculate the effectiveness of the attack results.
   * **Code:** github.com/JamiePW/ASCADv2-Extracted-Analysis
@@ -62,7 +66,7 @@ INTERNSHIP & ACADEMIC EXPERIENCE
   * **Tutor:** Prof. Guan Zhenyu
   * **Responsibility:** Implementation(Verilog) and simulation(Modelsim) of SM4 cryptographic algorithm.
   
-SKILLS
+PROFESSIONAL SKILLS
 ======
 * **Languages**
   * English: Fluent, IELTS Academic 7.5
@@ -74,7 +78,7 @@ SKILLS
 * **Network Tools**
   * beginning at OpenSSL/GunPG/OpenVPN/Nmap/Wireshark/netwox/hping3/HashCat/Snort
 
-CURRICULUM ACTIVITIES
+SOCIAL ACTIVITIES
 ======
 * 2024.11-now: Member of Haidian Ballad Singers Association of Beijing
 * 2020.04-now: Member of Tianxiao Quyi Troupe of Beihang University

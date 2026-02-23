@@ -20,7 +20,7 @@ CONTACT
 ======
 * **Base:** 505, Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA
 * **Tel:** (+86)13516305590 
-* **Email:** jamiepw214@gmail.com
+* **Email:** jamiepw@163.com
 * **GitHub:** github.com/JamiePW
 
 EDUCATION
@@ -47,7 +47,7 @@ INTERNSHIP & ACADEMIC EXPERIENCE
   * **Abstract:** In this paper, we studied an AES implementation that combines countermeasures such as affine masking and shuffling. We reproduce the power consumption model and perform computational optimization to implement higher-order correlation power analysis in 12 different scenarios, and evaluate the results at a finer granularity. We also propose a method to calculate the effectiveness of the attack results.
   * **Code:** github.com/JamiePW/ASCADv2-Extracted-Analysis
 
-* **Internship at Institute for Network Sciences and Cyberspace of Tsinghua University (2022.06-2022.08)**
+* **Internship at Institute for Network Sciences and Cyberspace of Tsinghua University (2022.06-2022.08, Online)**
   * **Tutor:** Associate Prof. Zhang Han
   * **Work during internship:** I read and studied more than 20 papers in top journals or conferences related to my major, and gave presentations about typical cases. The total code amount of the project is about 2000 lines, and the effective code amount of a single file can reach up to 600 lines.
   * **Code:** github.com/JamiePW/tpds-socket
@@ -90,7 +90,7 @@ HONORS & AWARDS
 | ---------------- | ------------------------------------------------------------ | ------- |
 | 2020, 2021       | The Grand Prize Scholarship for Learning Excellence of Beihang University | Top 3%  |
 | 2020, 2021       | The Outstanding Undergraduate of Beihang University          | Top 5%  |
-| 2020, 2021, 2022 | The Merit Student of Beihang University                      | Top 10% |
+| 2020, 2021, 2022, 2025 | The Merit Student of Beihang University                      | Top 10% |
 | 2022             | The Grand Prize Scholarship for Social Work of Beihang University | Top 10% |
 | 2023             | Graduation with Honors of Beihang University                 | Top 25% |
 | 2024             | The Louvain Incentive Scholarship of Ecole Polytechnique de Louvain of UCLouvain | N/A     |

@@ -18,14 +18,14 @@ BLOG
 
 CONTACT
 ======
-* **Base:** 505, Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA
+<!-- * **Base:** 505, Bldg Diyiguan, Beihang University, 37 Xueyuan Rd, Haidian Dist, Beijing, CHINA -->
 * **Tel:** (+86)13516305590 
 * **Email:** jamiepw@163.com
 * **GitHub:** github.com/JamiePW
 
 EDUCATION
 ======
-* 2023.09-now:  M.S., Beihang University
+* 2023.09-2026.06:  M.S. in Cyberspace Security, Beihang University
 * 2024.01-2024.06: Exchange student, Université catholique de Louvain
 * 2019.09-2023.06: B.E. in Information Security, Beihang University
   * **Overall GPA:** 3.85/4  
@@ -81,7 +81,7 @@ PROFESSIONAL SKILLS
 SOCIAL ACTIVITIES
 ======
 * 2024.11-now: Member of Haidian Ballad Singers Association of Beijing
-* 2020.04-now: Member of Tianxiao Quyi Troupe of Beihang University
+* 2020.04-2026.06: Member of Tianxiao Quyi Troupe of Beihang University
 
 HONORS & AWARDS
 ======

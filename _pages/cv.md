@@ -30,8 +30,21 @@ EDUCATION
 * 2019.09-2023.06: B.E. in Information Security, Beihang University
   * **Overall GPA:** 3.85/4  
   * **Rank:** 2/50
+ 
+RESEARCH & PUBLICATION
+======
+* **Wu Yuhan, Lü Jiqiang. Applicability of capsule networks in side-channel analysis[J]. *Journal of Cybersecurity*, 2026, 4(2): 1-14. DOI:[10.20172/j.issn.2097-3136.260301]([10.20172/j.issn.2097-3136.260301](https://link.oversea.cnki.net/doi/10.20172/j.issn.2097-3136.260301)).**
 
-INTERNSHIP & ACADEMIC EXPERIENCE
+* **Dissertation for M.S.: Template Power Analysis Based on Neural Networks**
+  * **Tutor:** Prof. Lu Jiqiang
+  * **Abstract:** To address the issues of blind model selection and poor generalizability in security evaluations of cryptographic implementations, this study investigates the adaptation mechanisms of neural networks for template-based power analysis. Through exhaustive search and bias-variance decomposition theory, it is demonstrated that Capsule Networks suffer from a mismatch between their spatial-semantic objectives and the requirements of temporal feature extraction, resulting in performance at only 75% of that achieved by CNNs while requiring five times as many parameters. Furthermore, a transfer attack scheme based on Transformer pre-trained foundation models is proposed. By employing flattened projection and autoregressive strategies to adapt the model for classification tasks, the proposed method achieves key recovery with a single power trace in cross-device scenarios (achieving 65% accuracy, reaching the theoretical optimum). Full fine-tuning yields a 372% performance improvement over tuning the classification head alone, validating the efficient transfer potential of general-purpose large models in side-channel analysis.
+
+* **Undergraduate Graduation Design(Thesis): Research on Implementation of High-Order Correlation Power Analysis of AES Implementation with Combined Countermeasures**
+  * **Tutor:** Prof. Lu Jiqiang
+  * **Abstract:** In this paper, we studied an AES implementation that combines countermeasures such as affine masking and shuffling. We reproduce the power consumption model and perform computational optimization to implement higher-order correlation power analysis in 12 different scenarios, and evaluate the results at a finer granularity. We also propose a method to calculate the effectiveness of the attack results.
+  * **Code:** github.com/JamiePW/ASCADv2-Extracted-Analysis
+
+INTERNSHIP
 ======
 * **Internship at Sinovation Ventures (2025.05-2025.08, Beijing)**
   * Responsible for daily IT support and issue resolution, promptly responding to and handling emergencies.
@@ -41,11 +54,6 @@ INTERNSHIP & ACADEMIC EXPERIENCE
   * **Security Operations**: Audited over 40 daily/monthly security hosting reports, authored and revised SOP documents totaling approximately 30,000 words for security operations, and maintained the software whitelist.
   * **Security Testing**: Participated in security testing for internal systems, with hands-on experience addressing OWASP TOP 10 web vulnerabilities (e.g., **SQL injection, XSS, CSRF, SSRF**).
   * **Technical Research**: Researched offensive and defensive techniques for **large language model (LLM) security**, producing 5 in-depth reports totaling over 40,000 words (see my [BLOG](#BLOG)).
-
-* **Undergraduate Graduation Design(Thesis): Research on Implementation of High-Order Correlation Power Analysis of AES Implementation with Combined Countermeasures**
-  * **Tutor:** Prof. Lu Jiqiang
-  * **Abstract:** In this paper, we studied an AES implementation that combines countermeasures such as affine masking and shuffling. We reproduce the power consumption model and perform computational optimization to implement higher-order correlation power analysis in 12 different scenarios, and evaluate the results at a finer granularity. We also propose a method to calculate the effectiveness of the attack results.
-  * **Code:** github.com/JamiePW/ASCADv2-Extracted-Analysis
 
 * **Internship at Institute for Network Sciences and Cyberspace of Tsinghua University (2022.06-2022.08, Online)**
   * **Tutor:** Associate Prof. Zhang Han
@@ -72,7 +80,7 @@ PROFESSIONAL SKILLS
   * English: Fluent, IELTS Academic 7.5
   * Mandarin Chinese: Native
 * **Programming**
-  * familiar with C/C++/Java/Python
+  * familiar with C/C++/Python
   * Learning TensorFLow/PyTorch
   * beginning at SQL/Assembly Language/Golang/Rust
 * **Network Tools**
@@ -95,3 +103,6 @@ HONORS & AWARDS
 | 2023             | Graduation with Honors of Beihang University                 | Top 25% |
 | 2024             | The Louvain Incentive Scholarship of Ecole Polytechnique de Louvain of UCLouvain | N/A     |
 
+HOBBIES
+=====
+Xiangsheng(traditional Chinese crosstalk), pop music, sci-fi movies and novels
